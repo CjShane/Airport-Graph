@@ -1,0 +1,12 @@
+Atlanta, GA, Hartsfield-Jackson Atlanta International Airport, ATL
+Los Angeles, CA, Los Angeles International Airport, LAX
+Dallas, TX, Dallas/Fort Worth International Airport, DFW
+Denver, CO, Denver International Airport, DEN
+Chicago, IL, Chicago O'Hare International Airport, ORD
+Charlotte, NC, Charlotte Douglas International Airport, CLT
+Orlando, FL, Orlando International Airport, MCO
+Washington, D.C., Washington Dulles International Airport, IAD
+Phoenix, AZ, Phoenix Sky Harbor International Airport, PHX
+San Francisco, CA, San Francisco International Airport, SFO
+Seattle, WA, Seattle–Tacoma International Airport, SEA
+New York, NY, LaGuardia Airport, LGA

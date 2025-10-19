@@ -26,7 +26,9 @@ import com.opencagedata.jopencage.model.JOpenCageResponse;
  *
  */
 public class AirportDistanceCalculator {
-    JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("399ce141d14f4b44ae7b866793e95462");
+
+    // Enter API key HERE
+    JOpenCageGeocoder jOpenCageGeocoder = new JOpenCageGeocoder("9568056c1ea2481e8881177e3408a045");
 
     /**
      * Converts a city name into geographic coordinates (latitude and longitude).
